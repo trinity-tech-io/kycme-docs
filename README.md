@@ -47,7 +47,7 @@ So if iOS users want to experience a similar effect on Android, iOS users need t
 
 _**`The following uses the Android device to operate`**_
 
-### Login with Elastos DID within KYC-me
+## Login with Elastos DID within KYC-me
 
 1. Enter the Essentials wallet homepage, find the menu "Discover dApps", and click to enter.
 2. Find the dApp -- "Kyc-me", and click to enter the "Kyc-me" application.  &#x20;
