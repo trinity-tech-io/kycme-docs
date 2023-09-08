@@ -2,12 +2,6 @@
 
 #### Why does the ID photo taken in the local gallery always prompt that the authentication failed?
 
-
-
-Please ensure that the ID photo is taken on a horizontal screen.
-
-Currently, compatibility with vertical screens is low.
-
-The recognition rate is higher when the ID photo is directly taken during authentication.&#x20;
-
-Please follow the rules for taking ID photos before starting the authentication.
+* _Please ensure that the ID photo is taken on a horizontal screen. (Currently, verification compatibility with vertical screens is low.)_
+* _The recognition rate is higher when the ID photo is taken during authentication._&#x20;
+* _Please follow the guidelines for taking ID photos before starting authentication._

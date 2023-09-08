@@ -1,6 +1,6 @@
-# iOS users need to know
+# iOS users - need to know
 
-If iOS users want to experience a similar effect on Android, iOS users need to do the following:
+If iOS users want to a similar experience to Android, please try the following:
 
 1. Open the Essentials app.
 2. On the Essentials homepage, click the settings icon in the upper right corner to enter the settings page, then click the privacy menu to enter the privacy settings page, and open the button in the column behind the built-in browser.
